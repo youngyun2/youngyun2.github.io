@@ -23,7 +23,7 @@ export const themeConfig = {
   // 备案信息
   icp: "备案?不可能的",
   // 建站日期
-  since: "2020-07-28",
+  since: "2024-12-03",
   // 每页文章数据
   postSize: 8,
   // inject
