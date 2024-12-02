@@ -9,19 +9,19 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://tsh1203.us.kg",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
       name: "Admin",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "David_tsh@163.com",
+      link: "https://tsh1203.github.io/tsh",
     },
   },
   // 备案信息
-  icp: "萌ICP备114514号",
+  icp: "备案?不可能的",
   // 建站日期
   since: "2020-07-28",
   // 每页文章数据
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog.imsyy.top/rss.xml",
+          href: "https://tsh1203.us.kg/rss.xml",
         },
       ],
       // 预载 CDN
@@ -200,7 +200,7 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "Home",
-          url: "https://github.com/imsyy/home",
+          url: "https://github.com/tsh1203",
         },
         {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
@@ -239,27 +239,11 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "David_tsh@163.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
-      },
-      {
-        icon: "telegram",
-        link: "https://t.me/bottom_user",
-      },
-      {
-        icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
-      },
-      {
-        icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
-      },
-      {
-        icon: "twitter-x",
-        link: "https://twitter.com/iimmsyy",
+        link: "https://www.github.com/tsh1203",
       },
     ],
     // sitemap
@@ -276,7 +260,7 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
+          { text: "Home", link: "https://github.com/tsh", newTab: true },
           { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
           { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
           { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
@@ -304,7 +288,7 @@ export const themeConfig = {
         items: [
           { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
           { text: "一个导航", link: "https://nav.imsyy.top/", newTab: true },
-          { text: "站点订阅", link: "https://blog.imsyy.top/rss.xml", newTab: true },
+          { text: "站点订阅", link: "https://imsyy.top/rss.xml", newTab: true },
           {
             text: "反馈投诉",
             link: "https://eqnxweimkr5.feishu.cn/share/base/form/shrcnCXCPmxCKKJYI3RKUfefJre",
