@@ -15,7 +15,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      REPO_URL: "blog/vitepress-theme-curve"  # 远程仓库的 URL
+      REPO_URL: "tsh1203/blog"  # 远程仓库的 URL
       BUILD_PATH: ".vitepress/dist"  # 构建输出路径
       CUSTOM_DOMAIN: "tsh1203.us.kg"  # 自定义域名
 
