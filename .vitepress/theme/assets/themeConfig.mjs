@@ -287,7 +287,7 @@ export const themeConfig = {
         text: "服务",
         items: [
           { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
-          { text: "一个导航", link: "https://nav.imsyy.top/", newTab: true },
+          { text: "一个导航", link: "https://tsh1203.github.io/website/", newTab: true },
           { text: "站点订阅", link: "https://imsyy.top/rss.xml", newTab: true },
           {
             text: "反馈投诉",
