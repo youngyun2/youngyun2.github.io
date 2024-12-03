@@ -14,7 +14,7 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "Tsh",
       cover: "/images/logo/logo.webp",
       email: "David_tsh@163.com",
       link: "https://tsh1203.github.io/tsh",
@@ -108,113 +108,113 @@ export const themeConfig = {
       ],
     ],
   },
-  // 导航栏菜单
-  nav: [
-    {
-      text: "文库",
-      items: [
-        { text: "文章列表", link: "/pages/archives", icon: "article" },
-        { text: "全部分类", link: "/pages/categories", icon: "folder" },
-        { text: "全部标签", link: "/pages/tags", icon: "hashtag" },
-      ],
-    },
-    {
-      text: "专栏",
-      items: [
-        { text: "技术分享", link: "/pages/categories/技术分享", icon: "technical" },
-        { text: "我的项目", link: "/pages/project", icon: "code" },
-        { text: "效率工具", link: "/pages/tools", icon: "tools" },
-      ],
-    },
-    {
-      text: "友链",
-      items: [
-        { text: "友链鱼塘", link: "/pages/friends", icon: "fish" },
-        { text: "友情链接", link: "/pages/link", icon: "people" },
-      ],
-    },
-    {
-      text: "我的",
-      items: [
-        { text: "畅所欲言", link: "/pages/message", icon: "chat" },
-        { text: "致谢名单", link: "/pages/thanks", icon: "reward" },
-        { text: "关于本站", link: "/pages/about", icon: "contacts" },
-      ],
-    },
-  ],
-  // 导航栏菜单 - 左侧
-  navMore: [
-    {
-      name: "博客",
-      list: [
-        {
-          icon: "/images/logo/logo.webp",
-          name: "主站",
-          url: "/",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
-        },
-      ],
-    },
-    {
-      name: "服务",
-      list: [
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "起始页",
-          url: "https://nav.imsyy.top/",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "今日热榜",
-          url: "https://hot.imsyy.top/",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "站点监测",
-          url: "https://status.imsyy.top/",
-        },
-      ],
-    },
-    {
-      name: "项目",
-      list: [
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
-          name: "SPlayer",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "Snavigation",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Home",
-          url: "https://github.com/tsh1203",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "DailyHotApi",
-          url: "https://github.com/imsyy/DailyHotApi",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "site-status",
-          url: "https://github.com/imsyy/site-status",
-        },
-      ],
-    },
-  ],
+  // // 导航栏菜单
+  // nav: [
+  //   {
+  //     text: "文库",
+  //     items: [
+  //       { text: "文章列表", link: "/pages/archives", icon: "article" },
+  //       { text: "全部分类", link: "/pages/categories", icon: "folder" },
+  //       { text: "全部标签", link: "/pages/tags", icon: "hashtag" },
+  //     ],
+  //   },
+  //   {
+  //     text: "专栏",
+  //     items: [
+  //       { text: "技术分享", link: "/pages/categories/技术分享", icon: "technical" },
+  //       { text: "我的项目", link: "/pages/project", icon: "code" },
+  //       { text: "效率工具", link: "/pages/tools", icon: "tools" },
+  //     ],
+  //   },
+  //   {
+  //     text: "友链",
+  //     items: [
+  //       { text: "友链鱼塘", link: "/pages/friends", icon: "fish" },
+  //       { text: "友情链接", link: "/pages/link", icon: "people" },
+  //     ],
+  //   },
+  //   {
+  //     text: "我的",
+  //     items: [
+  //       { text: "畅所欲言", link: "/pages/message", icon: "chat" },
+  //       { text: "致谢名单", link: "/pages/thanks", icon: "reward" },
+  //       { text: "关于本站", link: "/pages/about", icon: "contacts" },
+  //     ],
+  //   },
+  // ],
+  // // 导航栏菜单 - 左侧
+  // navMore: [
+  //   {
+  //     name: "博客",
+  //     list: [
+  //       {
+  //         icon: "/images/logo/logo.webp",
+  //         name: "主站",
+  //         url: "/",
+  //       },
+  //       {
+  //         icon: "/images/logo/logo.webp",
+  //         name: "博客镜像站",
+  //         url: "https://blog-backup.imsyy.top/",
+  //       },
+  //     ],
+  //   },
+  //   {
+  //     name: "服务",
+  //     list: [
+  //       {
+  //         icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
+  //         name: "起始页",
+  //         url: "https://nav.imsyy.top/",
+  //       },
+  //       {
+  //         icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
+  //         name: "今日热榜",
+  //         url: "https://hot.imsyy.top/",
+  //       },
+  //       {
+  //         icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
+  //         name: "站点监测",
+  //         url: "https://status.imsyy.top/",
+  //       },
+  //     ],
+  //   },
+  //   {
+  //     name: "项目",
+  //     list: [
+  //       {
+  //         icon: "/images/logo/logo.webp",
+  //         name: "Curve",
+  //         url: "https://github.com/imsyy/vitepress-theme-curve",
+  //       },
+  //       {
+  //         icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
+  //         name: "SPlayer",
+  //         url: "https://github.com/imsyy/SPlayer",
+  //       },
+  //       {
+  //         icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
+  //         name: "Snavigation",
+  //         url: "https://github.com/imsyy/SPlayer",
+  //       },
+  //       {
+  //         icon: "/images/logo/logo.webp",
+  //         name: "Home",
+  //         url: "https://github.com/tsh1203",
+  //       },
+  //       {
+  //         icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
+  //         name: "DailyHotApi",
+  //         url: "https://github.com/imsyy/DailyHotApi",
+  //       },
+  //       {
+  //         icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
+  //         name: "site-status",
+  //         url: "https://github.com/imsyy/site-status",
+  //       },
+  //     ],
+  //   },
+  // ],
   // 封面配置
   cover: {
     // 是否开启双栏布局
@@ -260,7 +260,7 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/tsh1203.tsh", newTab: true },
+          { text: "Home", link: "https://tsh1203.github.io/tsh", newTab: true },
           { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
           { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
           { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
@@ -380,14 +380,6 @@ export const themeConfig = {
     enable: false,
     appId: "",
     apiKey: "",
-  },
-  // 打赏
-  rewardData: {
-    enable: true,
-    // 微信二维码
-    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
-    // 支付宝二维码
-    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
   },
   // 图片灯箱
   fancybox: {
