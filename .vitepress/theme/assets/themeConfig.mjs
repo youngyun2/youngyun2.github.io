@@ -14,7 +14,7 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Tsh",
+      name: "Admin",
       cover: "/images/logo/logo.webp",
       email: "David_tsh@163.com",
       link: "https://tsh1203.github.io/tsh",
@@ -260,7 +260,7 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://tsh1203.github.io/tsh", newTab: true },
+          { text: "Home", link: "https://github.com/tsh", newTab: true },
           { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
           { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
           { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
@@ -287,7 +287,7 @@ export const themeConfig = {
         text: "服务",
         items: [
           { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
-          { text: "一个导航", link: "https://tsh1203.github.io/website/", newTab: true },
+          { text: "一个导航", link: "https://nav.imsyy.top/", newTab: true },
           { text: "站点订阅", link: "https://imsyy.top/rss.xml", newTab: true },
           {
             text: "反馈投诉",
@@ -380,6 +380,14 @@ export const themeConfig = {
     enable: false,
     appId: "",
     apiKey: "",
+  },
+  // 打赏
+  rewardData: {
+    enable: true,
+    // 微信二维码
+    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
+    // 支付宝二维码
+    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
   },
   // 图片灯箱
   fancybox: {
