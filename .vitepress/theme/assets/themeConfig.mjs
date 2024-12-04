@@ -14,7 +14,7 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "Tsh",
       cover: "/images/logo/logo.webp",
       email: "David_tsh@163.com",
       link: "https://tsh1203.github.io/tsh",
