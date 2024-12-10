@@ -52,8 +52,8 @@
       <!-- 性格 -->
       <div class="about-item character" style="--color: #4298b4">
         <span class="tip">性格</span>
-        <span class="title2">纯I人</span>
-        <span class="title2" style="color: var(--color)">ISTJ-A / ISTJ-T</span>
+        <span class="title2">竞选者</span>
+        <span class="title2" style="color: var(--color)">ENFP-T</span>
         <span class="more">
           在
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
@@ -80,9 +80,9 @@
       >
         <div class="image-content">
           <span class="tip">关注偏好</span>
-          <span class="title2">数码科技</span>
+          <span class="title2">OI</span>
           <div class="image-desc">
-            <span class="left">手机、电脑及软硬件</span>
+            <span class="left">网络科技</span>
           </div>
         </div>
       </div>
