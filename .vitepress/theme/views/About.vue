@@ -138,7 +138,7 @@
         <div class="about-item info">
           <div class="info-item">
             <span class="info-name">生于</span>
-            <span class="info-num" style="--color: #43a6c6">2001</span>
+            <span class="info-num" style="--color: #43a6c6">2011</span>
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
