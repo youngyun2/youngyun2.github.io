@@ -30,9 +30,6 @@ const linkData = [
         desc: "tsh朋友，mc大佬",
         url: "https://www.luogu.com.cn/user/1167457",
       },
-      {
-    ],
-  },
     ],
   },
 ];
