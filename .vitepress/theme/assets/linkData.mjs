@@ -33,18 +33,6 @@ const linkData = [
       {
     ],
   },
-  // 小伙伴们
-  {
-    type: "friends",
-    typeName: "小伙伴们",
-    typeDesc: "我们在一起，共同进步",
-    typeList: [
-      {
-        name: "無名小栈",
-        avatar: "https://pic.efefee.cn/uploads/2024/02/02/65bc526a940e3.png",
-        desc: "分享技术与科技生活",
-        url: "https://blog.imsyy.top/",
-      },
     ],
   },
 ];
