@@ -2,13 +2,9 @@
 <template>
   <div class="link">
     <!-- 顶图 -->
-    <Banner type="page" title="友情链接" desc="与各位博主无限进步">
+    <Banner type="page" title="友情链接" desc="与各位oier无限进步">
       <template v-slot:header-slot>
         <div class="menu">
-          <div class="menu-item random" @click="randomJump">
-            <i class="iconfont icon-shuffle" />
-            <span class="name">随机访问</span>
-          </div>
           <div class="menu-item add" @click="smoothScrolling('#友情链接申请')">
             <i class="iconfont icon-right-round" />
             <span class="name">申请友链</span>
