@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Tsh`s blog",
+    title: "Tsh's blog",
     // 站点描述
     description: "Hello World",
     // 站点logo
@@ -163,16 +163,6 @@ export const themeConfig = {
           name: "Home",
           url: "https://github.com/tsh1203",
         },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "DailyHotApi",
-          url: "https://github.com/imsyy/DailyHotApi",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "site-status",
-          url: "https://github.com/imsyy/site-status",
-        },
       ],
     },
   ],
@@ -230,7 +220,6 @@ export const themeConfig = {
         items: [
           { text: "技术分享", link: "/pages/categories/技术分享" },
           { text: "我的项目", link: "/pages/project" },
-          { text: "效率工具", link: "/pages/tools" },
         ],
       },
       {
