@@ -82,8 +82,6 @@
             class="report"
             target="_blank"
           >
-            <i class="iconfont icon-report" />
-            反馈与投诉
           </a>
         </div>
         <RewardBtn />
