@@ -31,7 +31,7 @@ jobs:
       # 安装 pnpm、安装依赖并构建项目
       - name: Install pnpm
         run: npm install -g pnpm
-      - name: Install dependencies 和 build
+      - name: Install dependencies and build
         run: |
           pnpm install
           pnpm build
