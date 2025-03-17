@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://tsh1203.us.kg",
+    site: "https://tsh1203.github.io/blog",
     // 语言
     lang: "zh-CN",
     // 作者
@@ -21,7 +21,7 @@ export const themeConfig = {
     },
   },
   // 备案信息
-  icp: "备案?不可能的",
+  icp: "暂时没备案",
   // 建站日期
   since: "2024-12-03",
   // 每页文章数据
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://tsh1203.us.kg/rss.xml",
+          href: "https://tsh1203.github.io/blog/rss.xml",
         },
       ],
       // 预载 CDN
@@ -234,7 +234,7 @@ export const themeConfig = {
         text: "服务",
         items: [
           { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
-          { text: "一个导航", link: "https://tshweb.us.kg", newTab: true },
+          { text: "一个导航", link: "https://tsh1203.github.io/web", newTab: true },
           { text: "站点订阅", link: "https://imsyy.top/rss.xml", newTab: true },
         ],
       },
