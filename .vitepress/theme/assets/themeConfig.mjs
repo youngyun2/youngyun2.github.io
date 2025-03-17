@@ -17,7 +17,7 @@ export const themeConfig = {
       name: "Tsh",
       cover: "/images/logo/logo.webp",
       email: "David_tsh@163.com",
-      link: "https://tsh1203.github.io/tsh",
+      link: "https://tsh1203.github.io/blog",
     },
   },
   // 备案信息
