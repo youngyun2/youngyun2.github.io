@@ -9,7 +9,7 @@ const linkData = [
       {
         name: "WL",
         avatar: "https://cdn.luogu.com.cn/upload/usericon/851495.png",
-        desc: "WritingLetter，《南谷的往事与未来》作者,mc生电大佬",
+        desc: "WritingLetter，《南谷的往事与未来》作者",
         url: "https://www.luogu.com.cn/user/851495",
       },
       {
