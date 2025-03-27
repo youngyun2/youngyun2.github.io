@@ -9,7 +9,7 @@ export const themeConfig = {
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://tsh1203.github.io/blog",
+    site: "https://tsh1203.github.io",
     // 语言
     lang: "zh-CN",
     // 作者
@@ -17,7 +17,7 @@ export const themeConfig = {
       name: "Tsh",
       cover: "/images/logo/logo.webp",
       email: "David_tsh@163.com",
-      link: "https://tsh1203.github.io/blog",
+      link: "https://tsh1203.github.io",
     },
   },
   // 备案信息
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://tsh1203.github.io/blog/rss.xml",
+          href: "https://tsh1203.github.io/rss.xml",
         },
       ],
       // 预载 CDN
@@ -212,7 +212,7 @@ export const themeConfig = {
         text: "项目",
         items: [
           { text: "Home", link: "https://tsh1203.github.io/home", newTab: true },
-          { text: "Blog", link: "https://tsh1203.github.io/blog", newTab: true },
+          { text: "Blog", link: "https://tsh1203.github.io", newTab: true },
         ],
       },
       {
