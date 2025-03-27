@@ -8,7 +8,7 @@ comment: true
 import Link from "@/views/Link.vue";
 </script>
 
-<链接 />
+<Link />
 
 # 友情链接申请
 
