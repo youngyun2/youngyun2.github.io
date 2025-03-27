@@ -17,7 +17,7 @@ export const themeConfig = {
       name: "Tsh",
       cover: "/images/logo/logo.webp",
       email: "David_tsh@163.com",
-      link: "https://tsh1203.github.io",
+      link: "https://github.com/tsh1203",
     },
   },
   // 备案信息
@@ -155,13 +155,8 @@ export const themeConfig = {
       list: [
         {
           icon: "/images/logo/logo.webp",
-          name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
-        },
-        {
-          icon: "/images/logo/logo.webp",
           name: "Home",
-          url: "https://github.com/tsh1203",
+          url: "https://tsh1203.github.io/home",
         },
       ],
     },
@@ -213,13 +208,6 @@ export const themeConfig = {
         items: [
           { text: "Home", link: "https://tsh1203.github.io/home", newTab: true },
           { text: "Blog", link: "https://tsh1203.github.io", newTab: true },
-        ],
-      },
-      {
-        text: "专栏",
-        items: [
-          { text: "技术分享", link: "/pages/categories/技术分享" },
-          { text: "我的项目", link: "/pages/project" },
         ],
       },
       {
