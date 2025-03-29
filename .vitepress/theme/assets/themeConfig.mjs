@@ -16,7 +16,7 @@ export const themeConfig = {
     author: {
       name: "Tsh",
       cover: "/images/logo/logo.webp",
-      email: "David_tsh@163.com",
+      email: "mailto:David_tsh@163.com",
       link: "https://github.com/tsh1203",
     },
   },
@@ -185,7 +185,7 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "David_tsh@163.com",
+        link: "mailto:David_tsh@163.com",
       },
       {
         icon: "github",
