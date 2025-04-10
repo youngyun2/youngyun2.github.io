@@ -16,7 +16,7 @@
         <span class="title2">优秀的作品</span>
       </div>
     </div>
-    <div class="about-content" style="grid-template-columns: 2fr 3fr">
+<div class="about-content" style="grid-template-columns: 2fr 3fr">
       <!-- 技能 -->
       <div class="about-item skills">
         <span class="tip">技能</span>
@@ -46,6 +46,11 @@
         <div class="list">
           <span class="list-item" style="--color: #357ef5">Oier · 信奥生</span>
         </div>
+        <img
+          class="career-img"
+          src="https://file.xdf.cn/uploads/170320/601_170320163507xPyB4uHy3r3YmNYJ.jpg"
+          alt="career"
+        />
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 3fr 2fr">
@@ -59,9 +64,14 @@
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
           了解更多关于
           <a href="https://www.16personalities.com/ch/istj-%E4%BA%BA%E6%A0%BC" target="_blank">
-            I人
+            ENFP-T
           </a>
         </span>
+        <img
+          src="https://s21.ax1x.com/2024/12/02/pAIdvKP.png"
+          alt="male"
+          class="male"
+        />
       </div>
       <!-- 座右铭 -->
       <div class="about-item">
@@ -82,7 +92,7 @@
           <span class="tip">关注偏好</span>
           <span class="title2">OI</span>
           <div class="image-desc">
-            <span class="left">网络科技</span>
+            <span class="left">信息算法</span>
           </div>
         </div>
       </div>
@@ -90,7 +100,7 @@
         class="about-item like image"
         style="
           --color: #7b3c25;
-          background-image: url(https://pic.efefee.cn/uploads/2024/02/27/65dd836099d16.webp);
+          background-image: url(https://s21.ax1x.com/2024/12/02/pAIdqCd.webp);
         "
       >
         <div class="image-content">
@@ -131,7 +141,7 @@
       <div class="about-item child">
         <div
           class="about-item map image"
-          style="background-image: url(https://pic.efefee.cn/uploads/2024/04/15/661cbccc56af5.webp)"
+          style="background-image: url(https://s21.ax1x.com/2024/12/02/pAIdwj0.png)"
         >
           <span class="position">我现在住在 <strong>中国，广东省</strong></span>
         </div>
@@ -142,7 +152,7 @@
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">中学生</span>
+            <span class="info-num" style="--color: #dfac46">初中生</span>
           </div>
         </div>
       </div>
@@ -174,12 +184,6 @@ const { theme } = useData();
 // 技能数据
 const skillsData = [
   {
-    name: "JavaScript",
-    color: "#f1e05abd",
-    icon: "javascript",
-    link: "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript",
-  },
-  {
     name: "HTML5",
     color: "#e34f26",
     icon: "html5",
@@ -192,40 +196,10 @@ const skillsData = [
     link: "https://developer.mozilla.org/zh-CN/docs/Web/CSS",
   },
   {
-    name: "Vue",
-    color: "#41b883",
-    icon: "vue",
-    link: "https://cn.vuejs.org/",
-  },
-  {
-    name: "React",
-    color: "#149ECA",
-    icon: "react",
-    link: "https://zh-hans.reactjs.org/",
-  },
-  {
-    name: "Node.js",
-    color: "#026E00",
-    icon: "nodejs",
-    link: "https://nodejs.org/",
-  },
-  {
     name: "Python",
     color: "#3776AB",
     icon: "python",
     link: "https://www.python.org/",
-  },
-  {
-    name: "Docker",
-    color: "#2496f2",
-    icon: "docker",
-    link: "https://www.docker.com/",
-  },
-  {
-    name: "Git",
-    color: "#F05032",
-    icon: "git",
-    link: "https://git-scm.com/",
   },
   {
     name: "Photoshop",
@@ -234,10 +208,10 @@ const skillsData = [
     link: "https://www.adobe.com/cn/lead/creativecloud/business.html",
   },
   {
-    name: "ChatGPT",
-    color: "#4AA181",
-    icon: "chatgpt",
-    link: "https://chat.openai.com/",
+    name: "C++",
+    color: "#149ECA",
+    icon: "git",
+    link: "https://c++",
   },
 ];
 
