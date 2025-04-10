@@ -46,11 +46,6 @@
         <div class="list">
           <span class="list-item" style="--color: #357ef5">Oier · 信奥生</span>
         </div>
-        <img
-          class="career-img"
-          src="https://file.xdf.cn/uploads/170320/601_170320163507xPyB4uHy3r3YmNYJ.jpg"
-          alt="career"
-        />
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 3fr 2fr">
