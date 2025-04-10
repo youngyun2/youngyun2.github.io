@@ -63,7 +63,7 @@
           </a>
         </span>
         <img
-          src="https://s21.ax1x.com/2024/12/02/pAIdvKP.png"
+          src="https://cdn.luogu.com.cn/upload/image_hosting/dci6o3hb.png"
           alt="male"
           class="male"
         />
