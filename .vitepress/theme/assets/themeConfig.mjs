@@ -271,8 +271,8 @@ export const themeConfig = {
       enable: true,
       // 倒计时日期
       data: {
-        name: "五一",
-        date: "2025-05-01",
+        name: "端午",
+        date: "2025-05-31",
       },
     },
     // 站点数据
