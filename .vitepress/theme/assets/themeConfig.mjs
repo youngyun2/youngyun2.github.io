@@ -158,6 +158,11 @@ export const themeConfig = {
           name: "Home",
           url: "https://tsh1203.github.io/home",
         },
+        {
+          icon: "/images/logo/logo.webp",
+          name: "代码",
+          url: "https://tsh1203.github.io/code",
+        },
       ],
     },
   ],
@@ -208,6 +213,7 @@ export const themeConfig = {
         items: [
           { text: "Home", link: "https://tsh1203.github.io/home", newTab: true },
           { text: "Blog", link: "https://tsh1203.github.io", newTab: true },
+          { text: "Code", link: "https://github.com/tsh1203/code", newTab: true },
         ],
       },
       {
@@ -221,9 +227,7 @@ export const themeConfig = {
       {
         text: "服务",
         items: [
-          { text: "站点状态", link: "https://status.imsyy.top/", newTab: true },
           { text: "一个导航", link: "https://tsh1203.github.io/web", newTab: true },
-          { text: "站点订阅", link: "https://imsyy.top/rss.xml", newTab: true },
         ],
       },
     ],
@@ -298,7 +302,7 @@ export const themeConfig = {
     // url
     url: "https://api-meting.example.com",
     // id
-    id: 9379831714,
+    id: 983883649,
     // netease / tencent / kugou
     server: "netease",
     // playlist / album / song
