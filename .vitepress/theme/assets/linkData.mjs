@@ -32,6 +32,19 @@ const linkData = [
       },
     ],
   },
+  {
+    type: "rec",
+    typeName: "博客",
+    typeDesc: "欢迎捧场",
+    typeList: [
+      {
+        name: "lijingshu`s blog",
+        avatar: "https://lijingshu-304775.github.io/img/fluid.png",
+        desc: "lijingshu 的个人博客",
+        url: "https://lijingshu-304775.github.io",
+      },
+    ],
+  },
 ];
 
 export default linkData;
