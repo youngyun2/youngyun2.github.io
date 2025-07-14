@@ -275,8 +275,8 @@ export const themeConfig = {
       enable: true,
       // 倒计时日期
       data: {
-        name: "夏至",
-        date: "2025-06-21",
+        name: "开学",
+        date: "2025-09-01",
       },
     },
     // 站点数据
