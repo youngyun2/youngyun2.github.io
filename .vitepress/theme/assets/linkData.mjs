@@ -27,7 +27,7 @@ const linkData = [
       {
         name: "Ender_pearl2333",
         avatar: "https://cdn.luogu.com.cn/upload/usericon/1167457.png",
-        desc: "tsh朋友，mc大佬",
+        desc: "tsh朋友，音游大佬",
         url: "https://www.luogu.com.cn/user/1167457",
       },
     ],
@@ -39,7 +39,8 @@ const linkData = [
     typeList: [
       {
         name: "lijingshu`s blog",
-        avatar: "https://lijingshu-304775.github.io/img/fluid.png",
+        avatar: "https://lijingshu-304775.github.io/img/avatar.png
+",
         desc: "lijingshu 的个人博客",
         url: "https://lijingshu-304775.github.io",
       },
