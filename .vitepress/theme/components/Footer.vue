@@ -2,21 +2,9 @@
   <footer id="main-footer" class="main-footer">
     <div class="footer-content">
       <div class="copyright">
-        <span class="time">@ 2019 - {{ thisYear }} By </span>
+        <span class="time">@ 2024 - {{ thisYear }} By </span>
         <a :href="theme.siteMeta.author.link" class="author link" target="_blank">
           {{ theme.siteMeta.author.name }}
-        </a>
-        <a class="icp link" href="https://beian.miit.gov.cn/" target="_blank">
-          <i class="iconfont icon-safe" />
-          {{ theme.icp }}
-        </a>
-        <a
-          class="upyun link"
-          href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"
-          target="_blank"
-        >
-          <i class="iconfont icon-upyun" />
-          又拍云
         </a>
       </div>
       <div class="meta">
