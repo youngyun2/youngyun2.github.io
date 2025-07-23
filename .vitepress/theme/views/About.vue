@@ -71,8 +71,8 @@
       <!-- 座右铭 -->
       <div class="about-item">
         <span class="tip">座右铭</span>
-        <span class="title1" style="margin-top: 20px">脚踏实地，</span>
-        <span class="title2">一丝不苟。</span>
+        <span class="title1" style="margin-top: 20px">任重道远，</span>
+        <span class="title2">毋忘奋斗。</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 1fr 1fr">
@@ -164,7 +164,7 @@
           这里大多都是<strong>OI向</strong>的文章，可能不太会有很多人看，权当是做个自我记录吧。当然，如果某篇文章能够帮助到你，那我也是很开心的。
         </p>
         <p class="text">
-          这些就是创造这个小站的本意，<strong>也是我分享生活的方式</strong>。有幸能和你相遇在这里，相信我们能共同留下一段美好记忆。
+          这些就是建立这个小站的本意，<strong>也是我分享生活的方式</strong>。有幸能和你相遇在这里，相信我们能共同留下一段美好记忆。
         </p>
       </div>
     </div>
