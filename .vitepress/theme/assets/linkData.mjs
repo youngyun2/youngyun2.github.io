@@ -38,10 +38,16 @@ const linkData = [
     typeDesc: "欢迎捧场",
     typeList: [
       {
-        name: "lijingshu`s blog",
+        name: "lijingshu's blog",
         avatar: "https://lijingshu-304775.github.io/img/avatar.png",
         desc: "lijingshu 的个人博客",
         url: "https://lijingshu-304775.github.io",
+      },
+      {
+        name: "ChasonWang's Blog",
+        avatar: "https://cdn.luogu.com.cn/upload/image_hosting/rl6d1w19.png",
+        desc: "一个热爱摸鱼的 OIer 的博客",
+        url: "https://chasonwang2012.github.io",
       },
     ],
   },
