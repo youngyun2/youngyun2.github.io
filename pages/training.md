@@ -7,5 +7,6 @@
 - KMP & Z函数 & manacher：https://www.luogu.com.cn/training/807714
 - 笛卡尔树：https://www.luogu.com.cn/training/809121
 - 后缀数组：https://www.luogu.com.cn/training/809921
+- Splay 树：https://www.luogu.com.cn/training/811158
 
 **感谢 [zxx](https://www.luogu.com.cn/user/1167457)&[WL](https://www.luogu.com.cn/user/851495) 做的整理工作。**
