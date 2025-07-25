@@ -71,20 +71,18 @@
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 1fr 1fr">
-        <div class="image-content">
-          <span class="tip">关注偏好</span>
-          <span class="title2">OI</span>
-          <div class="image-desc">
-            <span class="left">信息算法</span>
-          </div>
+      <div class="image-content">
+        <span class="tip">关注偏好</span>
+        <span class="title2">OI</span>
+        <div class="image-desc">
+          <span class="left">信息算法</span>
         </div>
       </div>
-        <div class="image-content">
-          <span class="tip">音乐偏好</span>
-          <span class="title2">轻音乐</span>
-          <div class="image-desc">
-            <span class="left">一起欣赏更多音乐</span>
-          </div>
+      <div class="image-content">
+        <span class="tip">音乐偏好</span>
+        <span class="title2">轻音乐</span>
+        <div class="image-desc">
+          <span class="left">一起欣赏更多音乐</span>
         </div>
       </div>
     </div>
