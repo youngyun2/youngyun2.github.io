@@ -62,11 +62,6 @@
             ENFP-T
           </a>
         </span>
-        <img
-          src="https://cdn.luogu.com.cn/upload/image_hosting/dci6o3hb.png"
-          alt="male"
-          class="male"
-        />
       </div>
       <!-- 座右铭 -->
       <div class="about-item">
@@ -76,13 +71,6 @@
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 1fr 1fr">
-      <div
-        class="about-item like image"
-        style="
-          --color: #0c0e20;
-          background-image: url(https://pic.efefee.cn/uploads/2024/02/27/65dd812567723.webp);
-        "
-      >
         <div class="image-content">
           <span class="tip">关注偏好</span>
           <span class="title2">OI</span>
@@ -91,13 +79,6 @@
           </div>
         </div>
       </div>
-      <div
-        class="about-item like image"
-        style="
-          --color: #7b3c25;
-          background-image: url(https://s21.ax1x.com/2024/12/02/pAIdqCd.webp);
-        "
-      >
         <div class="image-content">
           <span class="tip">音乐偏好</span>
           <span class="title2">轻音乐</span>
@@ -134,10 +115,6 @@
       </div>
       <!-- 信息 -->
       <div class="about-item child">
-        <div
-          class="about-item map image"
-          style="background-image: url(https://s21.ax1x.com/2024/12/02/pAIdwj0.png)"
-        >
           <span class="position">我现在住在 <strong>中国，广东省</strong></span>
         </div>
         <div class="about-item info">
