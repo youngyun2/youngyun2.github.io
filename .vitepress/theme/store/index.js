@@ -42,7 +42,7 @@ export const mainStore = defineStore("main", {
       // 背景模糊
       backgroundBlur: false,
       // 全站字体
-      fontFamily: "Yahei",
+      fontFamily: "lxgw",
       // 全站字体大小
       fontSize: 17,
       // 信息显示位置
