@@ -84,66 +84,22 @@
         </div>
     </div>
   </div>
-    <div class="about-content" style="grid-template-columns: 2fr 3fr">
-      <!-- 数据 -->
-      <div
-        class="about-item static image"
-        style="
-          --color: #0f1114;
-        "
-      >
-        <div class="image-content">
-          <span class="tip">数据</span>
-          <span class="title2">访问统计</span>
-          <div class="static-data">
-            <div v-for="(item, key, index) in statisticsData" :key="index" class="static-item">
-              <span class="static-name">{{ key }}</span>
-              <span class="static-num">{{ item }}</span>
-            </div>
-          </div>
-          <div class="image-desc opacity">
-            <span class="left">
-              统计信息来自 <a href="https://v6.51.la/" target="_blank">51la</a>
-            </span>
-          </div>
-        </div>
-      </div>
-      <!-- 信息 -->
-      <div class="about-item child">
-        <div
-          class="about-item map image"
-          style="background-image: url(https://s21.ax1x.com/2024/12/02/pAIdwj0.png)"
-        >
-          <span class="position">我现在住在 <strong>中国，广东省</strong></span>
-        </div>
-        <div class="about-item info">
-          <div class="info-item">
-            <span class="info-name">生于</span>
-            <span class="info-num" style="--color: #43a6c6">2012</span>
-          </div>
-          <div class="info-item">
-            <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">初中生</span>
-          </div>
-        </div>
-      </div>
+  <!-- 心路历程 -->
+  <div class="about-content" style="display: flex">
+    <div class="about-item">
+      <span class="tip">心路历程</span>
+      <span class="title2">为什么建站？</span>
+      <p class="text">
+        创建这个站的时候，想要就是能够有一个自己能够<strong>积累知识</strong>、<strong>积累兴趣</strong>的地方。和他人分享，会让这些成为<strong>积累和沉淀</strong>。如果能够帮助到更多的人，帮助更多人解决问题，那一定是非常棒的事情。
+      </p>
+      <p class="text">
+        这里大多都是 <strong>OI 向</strong>的文章，可能不太会有很多人看，权当是做个自我记录吧。当然，如果某篇文章能够帮助到你，那我也是很开心的。
+      </p>
+      <p class="text">
+        这些就是建立这个小站的本意，<strong>也是我分享生活的方式</strong>。有幸能和你相遇在这里，相信我们能共同留下一段美好记忆。
+      </p>
     </div>
-    <!-- 心路历程 -->
-    <div class="about-content" style="display: flex">
-      <div class="about-item">
-        <span class="tip">心路历程</span>
-        <span class="title2">为什么建站？</span>
-        <p class="text">
-          创建这个站的时候，想要就是能够有一个自己能够<strong>积累知识</strong>、<strong>积累兴趣</strong>的地方。和他人分享，会让这些成为<strong>积累和沉淀</strong>。如果能够帮助到更多的人，帮助更多人解决问题，那一定是非常棒的事情。
-        </p>
-        <p class="text">
-          这里大多都是 <strong>OI 向</strong>的文章，可能不太会有很多人看，权当是做个自我记录吧。当然，如果某篇文章能够帮助到你，那我也是很开心的。
-        </p>
-        <p class="text">
-          这些就是建立这个小站的本意，<strong>也是我分享生活的方式</strong>。有幸能和你相遇在这里，相信我们能共同留下一段美好记忆。
-        </p>
-      </div>
-    </div>
+  </div>
 </template>
 
 <script setup>
