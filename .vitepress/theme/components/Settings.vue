@@ -20,9 +20,9 @@
           <div class="set-options">
             <span
               :class="['options', { choose: fontFamily === 'hmos' }]"
-              @click="fontFamily = 'hmos'"
+              @click="fontFamily = 'Yahei'"
             >
-              HarmonyOS Sans
+              雅黑
             </span>
             <span
               :class="['options', { choose: fontFamily === 'lxgw' }]"
