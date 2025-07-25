@@ -5,7 +5,7 @@ export const mainStore = defineStore("main", {
     return {
       // 主题类别
       themeType: "auto",
-      themeValue: "dark",
+      themeValue: "light",
       // banner
       bannerType: "half",
       // 加载状态
@@ -50,7 +50,7 @@ export const mainStore = defineStore("main", {
       // 上次滚动位置
       lastScrollY: 0,
       // 站点背景
-      backgroundType: "image",
+      backgroundType: "patterns",
       backgroundUrl: "https://s21.ax1x.com/2024/12/30/pAz9egS.webp",
     };
   },
