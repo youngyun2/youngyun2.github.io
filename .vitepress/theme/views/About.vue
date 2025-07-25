@@ -80,7 +80,6 @@
           <span class="tip">关注偏好</span>
           <span class="title2">信息算法</span>
         </div>
-      </div>
       <div
         class="about-item like image"
         style="
@@ -97,6 +96,7 @@
         </div>
       </div>
     </div>
+  </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
       <!-- 数据 -->
       <div
