@@ -73,7 +73,7 @@
     <div class="about-content" style="grid-template-columns: 1fr 1fr">
         <div class="about-item">
           <span class="tip">关注偏好</span>
-          <span class="title2">信息算法</span>
+          <span class="title2">OI 算法</span>
         </div>
         <div class="about-item">
           <span class="tip">音乐偏好</span>
@@ -84,7 +84,7 @@
         </div>
     </div>
   </div>
-    <div class="about-content" style="grid-template-columns: 2fr 3fr">
+  <div class="about-content" style="grid-template-columns: 2fr 3fr">
       <!-- 数据 -->
       <div
         class="about-item static image"
