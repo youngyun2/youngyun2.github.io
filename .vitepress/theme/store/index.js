@@ -5,7 +5,7 @@ export const mainStore = defineStore("main", {
     return {
       // 主题类别
       themeType: "auto",
-      themeValue: "light",
+      themeValue: "dark",
       // banner
       bannerType: "half",
       // 加载状态
