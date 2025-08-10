@@ -21,7 +21,7 @@ const linkData = [
       {
         name: "CodingOIer",
         avatar: "https://cdn.luogu.com.cn/upload/usericon/754324.png",
-        desc: "顶级OIer，洛谷工具站建立者",
+        desc: "OI 大佬，洛谷工具站建立者",
         url: "https://www.luogu.com.cn/user/754324",
       },
       {
@@ -29,6 +29,18 @@ const linkData = [
         avatar: "https://cdn.luogu.com.cn/upload/usericon/1167457.png",
         desc: "tsh朋友，音游大佬",
         url: "https://www.luogu.com.cn/user/1167457",
+      },
+      {
+        name: "lfxxx",
+        avatar: "https://cdn.luogu.com.cn/upload/usericon/795344.png",
+        desc: "OI&zorr 大佬",
+        url: "https://www.luogu.com.cn/user/795344",
+      },
+      {
+        name: "Vocaloid世末歌者",
+        avatar: "https://cdn.luogu.com.cn/upload/usericon/678881.png",
+        desc: "石门少科院成员，OI 巨佬",
+        url: "https://www.luogu.com.cn/user/678881",
       },
     ],
   },
