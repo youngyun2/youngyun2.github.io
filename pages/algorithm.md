@@ -10,3 +10,4 @@
 - [平衡树(pd_ds)](/posts/2024/1028)
 - [平衡树(fhq treap)](/posts/2024/1029)
 - [平衡树(Splay)](/posts/2024/1033)
+- [manacher](/posts/2024/1035)
