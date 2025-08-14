@@ -11,5 +11,6 @@
 - 长链剖分：https://www.luogu.com.cn/training/812552
 - 2025.7.26 测试：https://www.luogu.com.cn/training/813490
 - CDQ 分治：https://www.luogu.com.cn/training/828453
+- 整体二分：https://www.luogu.com.cn/training/830613
 
 **感谢 [zxx](https://www.luogu.com.cn/user/1167457)&[WL](https://www.luogu.com.cn/user/851495) 做的整理工作。**
