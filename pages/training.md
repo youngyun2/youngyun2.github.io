@@ -13,5 +13,7 @@
 - CDQ 分治：https://www.luogu.com.cn/training/828453
 - 整体二分：https://www.luogu.com.cn/training/830613
 - 二项式反演：https://www.luogu.com.cn/training/832743
+- 有向图连通性：https://www.luogu.com.cn/training/833083
+- 无向图连通性：https://www.luogu.com.cn/training/833080
 
 **感谢 [zxx](https://www.luogu.com.cn/user/1167457)&[WL](https://www.luogu.com.cn/user/851495) 做的整理工作。**
