@@ -1,4 +1,4 @@
-## 2025 飞鹰队 801 题单
+## 2025 飞鹰班 801 题单
 - fhq-treap：https://www.luogu.com.cn/training/802966
 - 重链剖分：https://www.luogu.com.cn/training/802974
 - 树上启发式合并：https://www.luogu.com.cn/training/802972
