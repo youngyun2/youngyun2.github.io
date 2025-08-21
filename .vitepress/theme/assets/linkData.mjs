@@ -51,9 +51,9 @@ const linkData = [
     typeList: [
       {
         name: "lijingshu's blog",
-        avatar: "https://lijingshu-304775.github.io/img/avatar.png",
+        avatar: "https://lijingshu2014.github.io/",
         desc: "lijingshu 的个人博客",
-        url: "https://lijingshu-304775.github.io",
+        url: "https://lijingshu2014.github.io/",
       },
       {
         name: "ChasonWang's Blog",
