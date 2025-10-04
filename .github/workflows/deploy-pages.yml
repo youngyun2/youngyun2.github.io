@@ -54,3 +54,6 @@ jobs:
 
         env:
           CI: true
+          REPO_URL: "youngyun2/youngyun2.github.io"  # 改为你自己的仓库  
+          BUILD_PATH: ".vitepress/dist"  # 构建输出路径，不要改  
+          CUSTOM_DOMAIN: "youngyun2.github.io"  # 改为你自己的自定义域名
